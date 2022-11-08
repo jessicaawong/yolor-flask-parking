@@ -1,3 +1,6 @@
 __pycache__
-custom_weights/
-yolor_p6.pt
+custom_weights
+
+# files
+*.pt
+*.mp4
